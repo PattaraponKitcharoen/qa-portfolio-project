@@ -54,3 +54,6 @@
   2. คลิกปุ่ม "Login" โดยไม่กรอกรหัสผ่าน
 - **Expected Result:** - ระบบไม่เปลี่ยนหน้า
   - มีข้อความ Error สีแดงแจ้งเตือนว่า *Epic sadface: Password is required*
+
+## 📊 Test Report Result
+![Test Report Result](report-result.png)

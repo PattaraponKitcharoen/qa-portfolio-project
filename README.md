@@ -85,6 +85,9 @@
   5. คลิกปุ่ม "Continue"
 - **Expected Result:** - หลังจากกด Continue ระบบแสดงข้อความ "Error: Last Name is required"
 
+## 📊 Test Report Checkout Result
+![Test Report Result](report_checkout-result.png)
+
 ---
 
 ## 🐛 Bug Reports & Observations
